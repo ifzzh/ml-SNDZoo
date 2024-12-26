@@ -1,0 +1,7 @@
+wdir: ..
+outs:
+- path: data/raw_prometheus_data.tar.gz
+  cache: true
+  persist: false
+  md5: 610da394aecd877e1098dab7d40922d2
+md5: 66cfcd65b21721f05135a5849b8bf351
